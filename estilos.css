@@ -20,7 +20,7 @@
     table {
         border-collapse: collapse;
         width: 600px;
-        background-color: rgba(255, 255, 255, 0.631);
+        background-color: rgba(255, 255, 255, 0.765);
         padding: 100px;
         margin-top: 10px;
     }
@@ -36,4 +36,20 @@
         background-color: rgb(118, 120, 245);
         color: rgb(10, 9, 9);
         text-align: center;
+    }
+
+    .Informacion th {
+        background-color: red;
+    }
+
+    .Productos th {
+        background-color: rgb(30, 255, 0);
+    }
+
+    .cliente th {
+        background-color: rgb(195, 255, 0);
+    }
+
+    .empresa th {
+        background-color: rgb(0, 255, 174);
     }
